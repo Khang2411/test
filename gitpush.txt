@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "Laravel"
+git branch -M master                                                        
+git config --global user.email "hk24112000@gmail.com"
+git config --global user.name "Khang2411"
+git remote add origin https://github.com/Khang2411/HocLaravel.git
+git push -f origin master
+
+// với brand nhánh mà sẽ upload lên là master
